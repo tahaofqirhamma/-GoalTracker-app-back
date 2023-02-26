@@ -18,6 +18,4 @@ if ( isset($_POST["susername"]) && isset($_POST["spassword"]) && isset($_POST["s
     }
 }
 
-
-
 ?>
